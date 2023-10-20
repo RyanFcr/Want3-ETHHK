@@ -6,6 +6,24 @@ In addition to developing a tool for payments, we are heavily invested in the fa
 
 Currently, we are solely a payment tool, but our future development direction encompasses becoming a live streaming platform, emulating platforms like OnlyFans and Friend.Tech.
 
+# Usage
+
+Local deployment: 
+
+Fill up .env as .env.example
+
+# Deploy address
+
 Mumbai:0x12C5C62909674dEa91485A918B49353DB782d68B
 Polygon zkEVM: 0x063a3F62eb3784AC5430319a3Ab319F03C88F42B
 Scroll:0xCCdeC8eC496121f2b0f8C4242469Fe4f636c4446
+
+# Demo
+
+[Want3](https://want3.zeabur.app/)
+
+[⁣⁡⁤⁢‍⁤⁣⁡⁣⁢‬﻿⁤‬‬﻿‬⁡⁡‍‌⁣﻿⁣⁡⁢⁢⁤⁡⁤‬⁡‬‍⁤‌⁣⁡﻿‍⁤Want3-ETHHK-Demo-Vedio](https://k5ms77k0o1.feishu.cn/docx/KS7BdEjXpoB1nrxG21gcv9slnTe)
+
+# Deck
+
+[Want3: If you want it, I'll surprise you. | Gamma](https://gamma.app/docs/Want3-If-you-want-it-Ill-surprise-you-zp1xiiuodi17z9w?mode=doc)
